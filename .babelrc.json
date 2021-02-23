@@ -1,0 +1,5 @@
+{
+    "presets": ["@babel/env"],
+    "plugins": ["@babel/plugin-transform-arrow-functions", "minify-mangle-names"],
+    "compact": true
+}
